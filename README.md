@@ -1,1 +1,1 @@
-# nikita-filipov.github.io
+# nikita.filipov.github.io
